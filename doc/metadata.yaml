@@ -1,4 +1,4 @@
-description: null
+description: Mono high speed analog to digital converter. With parallel data output.
 github_branch: ADCmonoPPI01A
 github_repo: ADCmonoPPI01
 github_url: https://github.com/mlab-modules/ADCmonoPPI01
@@ -9,4 +9,6 @@ mark: 50
 tags:
 - mlab
 - mlab-module
+- adc
+- mlab-adc
 title: ADCmonoPPI01
